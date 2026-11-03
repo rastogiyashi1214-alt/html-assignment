@@ -7,7 +7,7 @@
   <title>Portfolio with Accessible Images</title>
 </head>
 <body>
-  <header><h1>Anushka Mishra – Portfolio</h1></header>
+  <header><h1>Yashi Rastogi – Portfolio</h1></header>
   <main>
     <section>
       <h2>Profile</h2>
