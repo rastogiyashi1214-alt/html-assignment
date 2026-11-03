@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Resume – Aarav Sharma – HTML &amp; CSS course assignment">
-  <title>Resume – Siddharth verma</title>
+  <meta name="description" content="Resume – yashi rastogi – HTML &amp; CSS course assignment">
+  <title>Resume – Yashi Rastogi</title>
 </head>
 
 <body>
-  <h1>Siddharth verma</h1>
-  <p>Aspiring Web Developer<br>Bareilly, Uttar Pradesh, India<br>Email: sk8938467@gmail.com | Phone: +91 7607045074 </p>
+  <h1>Yashi Rastogi</h1>
+  <p>Aspiring Web Developer<br>Bareilly, Uttar Pradesh, India<br>Email: rastogiyashi1214@gmail.com | Phone: +91 8923025274 </p>
 
   <hr>
 
@@ -24,7 +24,7 @@
   <h3>BCA in (Artificial Intelligence) </h3>
   <p>Invertis Univeristy (at present-2026)</p>
   <h3>Senior Secondary (XII)</h3>
-  <p>Kendriya Vidalaya OCF spn, 2026 – 63%</p>
+  <p>DIRISH PRASHAD MEMORIAL COLLEGE BAREILLY,76%</p>
 
   <hr>
 
