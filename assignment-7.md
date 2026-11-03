@@ -24,7 +24,7 @@
   <h3>BCA in (Artificial Intelligence) </h3>
   <p>Invertis Univeristy (at present-2026)</p>
   <h3>Senior Secondary (XII)</h3>
-  <p>DIRISH PRASHAD MEMORIAL COLLEGE BAREILLY,76%</p>
+  <p>GIRISH PRASHAD MEMORIAL COLLEGE BAREILLY,76%</p>
 
   <hr>
 
